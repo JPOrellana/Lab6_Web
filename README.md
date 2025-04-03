@@ -82,3 +82,31 @@ Para ejecutar el frontend y permitir la comunicación con el backend, recomiendo
 
 ![Eliminar Partido](./img/eliminar1.png)
 ![Eliminar Partidos](./img/eliminar2.png)
+
+---
+
+### ⚽ Registrar Gol
+> Permite registrar un gol en el sistema.
+
+![Registrar Gol](./img/gol.png)
+
+---
+
+### 🟨 Registrar Tarjeta Amarilla
+> Permite registrar una tarjeta amarilla en el sistema.
+
+![Registrar Amarilla](./img/tarjeta.png)
+
+---
+
+### 🟥 Registrar Tarjeta Roja
+> Permite registrar una tarjeta roja en el sistema.
+
+![Registrar Roja](./img/roja.png)
+
+---
+
+### ⏱️ Registrar Tiempo Extra
+> Permite registrar tiempos extra en el sistema.
+
+![Registrar Tiempo](./img/tiempo.png)
